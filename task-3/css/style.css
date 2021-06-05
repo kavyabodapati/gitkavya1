@@ -1,0 +1,38 @@
+.maindiv{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+    box-shadow: 8px 8px 8px 8px;
+    border: 3px solid #ddd;
+}
+
+img{
+    width: 92%;
+    padding: 1%;
+    margin: 1%;
+}
+
+.leftdiv, .rightdiv{
+    width: 45%;
+    padding: 1%;
+    margin: 1%;
+    box-shadow: 8px 8px 8px 8px #ddd;
+}
+
+span{
+    border-radius: 10px;
+    border: 1px solid #5d6d7e;
+    background-color: #ddd;
+    padding: 1%;
+    margin: 1%;
+    box-shadow: 0 8px 8px -8px #000;
+}
+
+.tdiv{
+    width: 90%;
+    padding: 1%;
+    margin: 1%;
+    box-shadow: 8px 8px 8px 8px #ddd;
+    border: 3px solid #ddd;
+}

@@ -1,0 +1,25 @@
+{
+    "data":{
+        "image":"images/2.jpg",
+    "name":"APSSDC",
+    "courses":["React","JS","HTML","ES6"]
+    },
+    "trainers":[
+        {
+    "name":"Raja",
+    "phonenumber":"9807654321",
+    "salari":"45000"
+        },
+    {
+      "name":"Surya",
+    "phonenumber":"23456789098",
+    "salari":"46000"
+        },
+            {
+    "name":"Gayathri",
+    "phonenumber":"9876543210",
+    "salari":"42000"
+        }
+    ]
+    }
+    
